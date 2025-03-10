@@ -49,17 +49,14 @@ Clone the repository or download the source code.
 Open the project in NetBeans.
 Run the project by clicking the Run button or pressing Shift + F6.
 📁 Project Structure
-css
-Copy
-Edit
-DeathtrapTilePuzzle/
+Deathtrap/
 │
 ├── src/
-│   ├── InterfaceFrame.java
-│   ├── StartFrame.java
-│   ├── DeathtrapFrame.java
-│   ├── EscapeFrame.java
-│   └── ResetFrame.java
+│   ├── Interface.java
+│   ├── Start.java
+│   ├── Deathtrap.java
+│   ├── Escape.java
+│   └── Reset.java
 │
 └── README.md
 
