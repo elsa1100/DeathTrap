@@ -69,19 +69,19 @@ DeathtrapTilePuzzle/
 ![Frame Screenshot](Deathtrap/src/photos/screenshots/Interface%20frame.png)
 
 
-1- Start frame :
+2- Start frame :
 ![Frame Screenshot](Deathtrap/src/photos/screenshots/Start%20frame.png)
 
 
-1- Deathtrap frame :
+3- Deathtrap frame :
 ![Frame Screenshot](Deathtrap/src/photos/screenshots/Deathtrap%20frame.png)
 
 
-1- Escape frame :
+4- Escape frame :
 ![Frame Screenshot](Deathtrap/src/photos/screenshots/Escape%20frame.png)
 
 
-1- Reset frame :
+5- Reset frame :
 ![Frame Screenshot](Deathtrap/src/photos/screenshots/Reset%20frame.png)
 
 
