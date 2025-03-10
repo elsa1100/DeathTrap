@@ -65,7 +65,28 @@ DeathtrapTilePuzzle/
 
 📷 Screenshots
 
+1- Interface frame :
+![Frame Screenshot](Deathtrap/src/photos/screenshots/Interface%20frame.png)
+
+
+1- Start frame :
+![Frame Screenshot](Deathtrap/src/photos/screenshots/Start%20frame.png)
+
+
+1- Deathtrap frame :
 ![Frame Screenshot](Deathtrap/src/photos/screenshots/Deathtrap%20frame.png)
+
+
+1- Escape frame :
+![Frame Screenshot](Deathtrap/src/photos/screenshots/Escape%20frame.png)
+
+
+1- Reset frame :
+![Frame Screenshot](Deathtrap/src/photos/screenshots/Reset%20frame.png)
+
+
+
+
 
 view it directly [here](Deathtrap/src/photos/screenshots/).
 
