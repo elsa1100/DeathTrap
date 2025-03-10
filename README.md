@@ -63,9 +63,12 @@ DeathtrapTilePuzzle/
 │
 └── README.md
 
-📷 Screenshots (Optional)
+📷 Screenshots
 
 
+![Frame Screenshot](src/photos/screenshots/your-screenshot.png)
+
+Or view it directly [here](src/photos/screenshots/your-screenshot.png).
 
 
 ✨ Features
