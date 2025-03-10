@@ -65,10 +65,7 @@ DeathtrapTilePuzzle/
 
 📷 Screenshots
 
-
-![Frame Screenshot](src/photos/screenshots/Deathtrap_frame.png)
-
-Or view it directly [here](src/photos/screenshots/your-screenshot.png).
+view it directly [here](src/photos/screenshots/).
 
 
 ✨ Features
