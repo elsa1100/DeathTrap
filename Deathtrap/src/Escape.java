@@ -30,7 +30,7 @@ public class Escape extends javax.swing.JFrame {
         jLabel1.setText(" ");
 
         ExitE.setFont(new java.awt.Font("Viner Hand ITC", 3, 18)); // NOI18N
-        ExitE.setText(" EXIT");
+        ExitE.setText("ESCAPE");
         ExitE.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 ExitEActionPerformed(evt);
