@@ -1,5 +1,5 @@
 Deathtrap Tile Puzzle 🎮🧩
-Group 4 Project
+
 
 📜 Overview
 Deathtrap Tile Puzzle is a Java-based game inspired by the famous puzzle from the "Uncharted" game series. The game challenges players to solve a deadly tile puzzle, where choosing the wrong tile could lead to a trap!
